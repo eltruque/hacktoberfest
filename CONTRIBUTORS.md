@@ -616,6 +616,11 @@ to explore life. Also, Python and Django Developer
 - Bio: IB Diploma high school student.
 - GitHub: [DHDaniel](https://github.com/DHDaniel)
 
+### Name: [Daniel Sanchez](https://github.com/eltruque)
+-Place: Albacete,España
+-bio: Tecnic of computer systems.
+-GitHub:[eltruque](https://github.com/eltruque)
+
 #### Name: [Daniel Tudares](https://github.com/dan1eltudares)
 - Place: Ottawa, Ontario, Canada
 - Bio: Network specialist, code n00b
